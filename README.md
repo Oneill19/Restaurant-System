@@ -17,3 +17,5 @@ Every line in "input.txt" start with the number of the option.
 5. For closing a table and get the bill we wrtie the number of option - 5 and the number of table.
 
 If the table we close is the last table, we also print to most ordered dish in that session.
+
+The repository contain text files for example.
