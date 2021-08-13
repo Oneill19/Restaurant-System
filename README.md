@@ -1,4 +1,4 @@
-# restaurant_system
+# Restaurant System
 First year project in C, using linked list and files.
 
 The program have 5 options:
