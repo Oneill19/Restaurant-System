@@ -10,6 +10,7 @@ The program have 5 options:
 
 The program work on files, there is "Instructions.txt" file that the program get the data from and "output.txt" file where all the output data goes.
 Every line in "input.txt" start with the number of the option.
+The dishes in the restaurant. their quantity and their prices will be taken from "Manot.txt" file.
 1. Option 1 must be the first option the program run so the first line in "Instructions.txt" in 1.
 2. For adding a dish to the stock we write the number of option - 2, the name of the dish and the quantity.
 3. For order a dish we write the number of option - 3, the number of table, the name of the dish and the quantity.
