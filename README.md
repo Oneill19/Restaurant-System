@@ -1,5 +1,10 @@
-# Restaurant System
-First year project in C, using linked list and files.
+<h1 align="center">Restaurant System</h1>
+
+<p align="center" width="100%">
+    <a href="#"><img align="center" src="https://user-images.githubusercontent.com/66797449/179549890-f7bbf94b-a6f3-4125-b324-43e01beec02f.svg" title="C" width="70" height="60"/></a>
+</p>
+
+### First year project in C, using linked list and files.
 
 The program have 5 options:
 1. Get the dishes names from "Manot.txt" file, every row in the file is a dish.
